@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1674601052 source:c:\users\krzysiek\documents\nauka8\main.cpp
+	<iostream>
+	<fstream>
+	"PlikTekstowy.h"
+	"PlikZAdresatami.h"
+
+1674628364 c:\users\krzysiek\documents\nauka8\pliktekstowy.h
+	<iostream>
+	<fstream>
+
+1674600409 c:\users\krzysiek\documents\nauka8\plikzadresatami.h
+	<fstream>
+	"PlikTekstowy.h"
+
